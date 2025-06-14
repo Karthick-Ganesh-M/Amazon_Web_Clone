@@ -2,8 +2,7 @@
 
                                                                 🛍️ Amazon Web Clone
                                                                 
-This project is a responsive web-based clone of the Amazon homepage, created using HTML, CSS, and JavaScript. It replicates the core UI/UX elements of Amazon’s user interface including the navigation bar, product categories, banner sliders, and product display cards.
-The aim of this project is to practice frontend development skills and understand the layout and styling techniques used in large-scale e-commerce platforms like Amazon. While this clone does not connect to a backend or real product database, it lays the foundation for a fully functional e-commerce application.
+This project is a responsive web-based clone of the Amazon homepage, designed to replicate the core UI/UX components of a leading e-commerce platform. Built using HTML5, the structure of each webpage—such as the navigation bar, product sections, and layout grids—has been carefully crafted to mirror Amazon’s interface. CSS3 is used extensively to style the layout, ensure visual appeal, and enable responsive behavior across various devices. Interactive elements such as banner sliders, dropdowns, and product carousels are powered by JavaScript, bringing the site to life with dynamic rendering and user interactivity. Font-based icons are utilized to represent components like the shopping cart, user login, and search, contributing to a familiar and intuitive user interface. Additionally, Google Fonts are employed to enhance the overall typography and maintain a clean, modern design. While this clone does not connect to a backend or real product database, it serves as a strong foundation for understanding the frontend architecture of large-scale e-commerce platforms and practicing UI development skills.
 
                                                                🧰 Technologies Used
 
